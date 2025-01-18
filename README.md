@@ -2,7 +2,7 @@
 
 My name is Rafael and I'm an iOS developer
 
-- 🔭 I’m currently working on [@netshoes](https://github.com/netshoes)
+- 🔭 I’m currently working on @itau
 - Check out my app on App Store [@quartzo](https://apps.apple.com/us/app/quartzo-controle-de-despesa/id6446209514)
 - 📫 You can find me on: [@linkedin](https://www.linkedin.com/in/rafaramosdev/) | [@twitter](https://twitter.com/rafaelsfelip)
 <!--- 😆 I'm trying resolve some programing logic problems on [@codewars](https://www.codewars.com/users/rafaelcrz/completed)
